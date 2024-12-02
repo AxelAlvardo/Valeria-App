@@ -1,3 +1,4 @@
+
 function DashboardElement({ value, setAlert }) {
   //value: Valor del elemento
 
